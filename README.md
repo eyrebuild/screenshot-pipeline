@@ -2,7 +2,7 @@
 
 CI/CD pipeline that captures an up to date screenshot of a homepage.
 
-   ![Homepage screenshot](public/hoompagescreenshot.png)
+![Homepage screenshot](public/homepage-screenshot.png)
 
 ## Tech stack
 
