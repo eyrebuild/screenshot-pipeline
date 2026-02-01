@@ -2,6 +2,8 @@
 
 CI/CD pipeline that captures an up to date screenshot of a homepage.
 
+   ![Homepage screenshot](public/hoompagescreenshot.png)
+
 ## Tech stack
 
 - **React 19** with **Vite 6**
